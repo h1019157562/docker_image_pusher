@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 whyour/qinglong:2.10.13
+whyour/qinglong:2.11.3
