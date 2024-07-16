@@ -7,4 +7,4 @@ xhofe/alist:latest
 whyour/qinglong:2.10.13
 whyour/qinglong:2.11.3
 anmour/bncr:latest
-autman:latest
+autMan hdbjlizhe/autman:latest
